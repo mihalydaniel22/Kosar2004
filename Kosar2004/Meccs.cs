@@ -18,5 +18,6 @@
             this.Hely = hely;
             this.Ido = ido;
         }
+
     }
 }
